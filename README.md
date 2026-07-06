@@ -41,7 +41,7 @@ Ferramenta para instalação automatizada de softwares, otimização e configura
 ## 💡 Qual a história por trás do Kit?
 
 Meu nome é **Linnek Fernandes**, trabalho na Techinblue.
-Cansado de ficar abrindo 10 programas diferentes pra fazer uma manutenção, resolvi criar esse Kit.
+Cansado de ficar abrindo 10 programas diferentes pra fazer uma manutenção, resolvi criar esse sistema.
 
 A ideia era simples: 1 clique pra HWInfo, 1 clique pra limpar cache, 1 clique pra otimizar.
 Isso cortou pela metade o tempo de atendimento aqui na empresa.
