@@ -26,7 +26,7 @@ Ferramenta para instalação automatizada de softwares, otimização e configura
 1. Baixe o `KitTechinblue.exe`
 2. Crie uma pasta e coloque o Executável `KitTechinblue.exe`
 3. Execute como **Administrador**
-4. Use a senha configurada para desbloquear, segue a senha configurada:SuaSenha!
+4. Use a senha configurada para desbloquear, segue a senha configurada: *SuaSenha!*
 5. Link do .exe : https://github.com/linnektoic-lgtm/Kit-Techinblue/releases/tag/v2.0
 
 ## IMPORTANTE - ANTES DE USAR:
